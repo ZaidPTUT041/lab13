@@ -1,0 +1,4 @@
+Artificial Intelligence
+Artificial Intelligence (AI) is the field of computer science that aims to create intelligent machines capable of mimicking human cognitive functions like learning, problem-solving, and decision-making.
+AI utilizes various techniques like machine learning and deep learning to analyze data, recognize patterns, and adapt to new situations.
+AI is rapidly evolving and has the potential to revolutionize various industries, from healthcare and finance to transportation and entertainment.
